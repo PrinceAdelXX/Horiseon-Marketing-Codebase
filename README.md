@@ -14,7 +14,7 @@ The website has three shortcuts:
 
 
 
-### Github Links and Screenshot
+### GitHub Links and Screenshot
 
 The GitHub Repository URL is as follows:
 

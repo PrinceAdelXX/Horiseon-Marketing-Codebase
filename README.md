@@ -20,10 +20,10 @@ Horiseon's a website that's intended for business owners to find the right clien
 
 The GitHub Repository URL is as follows:
 
-https://github.com/PrinceAdelXX/Horiseon-Marketing-Codebase
+https://github.com/PrinceAdelXX/Horiseon-Marketing-Services-and-Solutions.git
 
 The Horiseon Website Deployment URL is:
 
-https://princeadelxx.github.io/Horiseon-Marketing-Codebase/
+https://princeadelxx.github.io/Horiseon-Marketing-Services-and-Solutions/
 
 ![image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)

@@ -24,4 +24,4 @@ The Deployment URL is:
 
 https://princeadelxx.github.io/Horiseon-Marketing-Codebase/
 
-<img src="https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png" alt="image" style="max-width:100%;">
+![image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)

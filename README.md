@@ -1,4 +1,4 @@
-# Horiseon Refactoring Codebase
+# Horiseon Marketing Codebase
 
 ## Purpose 
 

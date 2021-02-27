@@ -1,26 +1,28 @@
-# Horiseon Marketing Codebase
+# Horiseon Services and Solutions
 
 ## Purpose 
 
-Horiseon is a website that's intended for business owners to find the right clients for their business. It monopolises online opinion that clients/users have access to, and auto determines the brands that are feasible to their needs for success. The code is refactored by meeting standards in web accessability, by organizing them to follow the semantic structure of the HTML elements, utilisation of comments or section of the page
+Horiseon's a website that's intended for business owners to find the right clients. It monopolises online opinion,and and auto determines the brands that are feasible for the success of the clients. The code is refactored by meeting standards in web accessability, which is done by the consolidation  CSS attributes, and ensuring that they follow the semantic structure of the HTML classes/elements. Commenting is utilised before each section of the page, and section/section classes are created in lieu of divs.
 
-The website has three shortcuts:
+### Changes Administered
 
-1. Search Engine Optimization
+  The usage of semantic HTML tags such as header, nav, section, article, and footer.
 
-2. Online Reputation Management
+  Commented HTML and CSS sections for readability purposes
 
-3. Social Media Marketing
+  Alt text for images to help users who are using screen readers.
+
+  Using classes to ensure that the background color, and color  can be applied universally within the same article, and wouldn't lead to overriden, and repetitive CSS code.
 
 
 
-### GitHub Links and Screenshot
+#### GitHub Links and Screenshot
 
 The GitHub Repository URL is as follows:
 
 https://github.com/PrinceAdelXX/Horiseon-Marketing-Codebase
 
-The Deployment URL is:
+The Horiseon Website Deployment URL is:
 
 https://princeadelxx.github.io/Horiseon-Marketing-Codebase/
 
